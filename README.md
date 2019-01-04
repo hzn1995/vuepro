@@ -1,6 +1,6 @@
 # vuetpl
 
-> This is a Vue + webpack + Axios + vueRouter project architecture
+> This is a Vue infrastructure project built with vue2 + webpack4 + Axios + vuex + sass, so you don't need to build any new projects, just clone them directly.
 
 ## Build Setup
 
