@@ -26,4 +26,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
  打开浏览器，输入http://localhost:8080
  若出现下面画面，则表示安装成功
 
+ ![image](https://github.com/hzn1995/vuepro/blob/master/success.png)
 
