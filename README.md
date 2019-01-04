@@ -19,3 +19,11 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Check Result
+
+# 模块安装完成后，在命令行中输入npm run dev
+# 打开浏览器，输入http://localhost:8080
+# 若出现下面画面，则表示安装成功
+
+
